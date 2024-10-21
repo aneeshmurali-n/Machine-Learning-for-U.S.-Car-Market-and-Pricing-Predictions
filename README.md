@@ -40,13 +40,14 @@ The insights gained from this project will help us understand market dynamics an
 
 ## Usage
 
+If you prefer to run it in Google Colab, simply click the badge below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aneeshmurali-n/Machine-Learning-for-U.S.-Car-Market-and-Pricing-Predictions/blob/main/U_S_Car_Market_and_Pricing_Predictions.ipynb) 
+
+&nbsp;**OR**
 1. Clone the repository.
 2. Install the required dependencies.
 3. Run the Jupyter Notebook.
-
-### OR
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aneeshmurali-n/Machine-Learning-for-U.S.-Car-Market-and-Pricing-Predictions/blob/main/U_S_Car_Market_and_Pricing_Predictions.ipynb) 
 
 
 ## License
